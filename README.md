@@ -1,6 +1,6 @@
 # Question Answering
 
-This project focuses on utilizing BERT for the downstream question answering task, achieving a notable accuracy rate of **84.18%**. The model ranks in the **top 6% out of 1000 teams**.
+Utilizing BERT for the downstream question answering task resulted in the model achieving a notable accuracy rate of **84.18%**. The model ranks in the **top 6% out of 1000 teams**.
 
 ## Task
 The task involves providing answers to questions based on information extracted from a Chinese paragraph. An example scenario includes:
